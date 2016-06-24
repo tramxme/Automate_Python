@@ -17,6 +17,23 @@ All the assignments are done in Python 3.4
   * [ ] Regex Search
 10. Chapter 9
 11. Chapter 10
-12. Chapter 11
-13. Chapter 12
-14. Chapter 13
+12. Chapter 11 - Web Scraping
+  * [ ] [Command Line Emailer]()
+  * [ ] [Image Site Downloader] ()
+  * [ ] [2048] ()
+  * [ ] [Link verification] ()
+13. Chapter 12 - Working with Excel Spreadsheets
+  * [ ] [Multiplication Table Maker] ()
+  * [ ] [Blank Row Inserter] ()
+  * [ ] [Spreadsheet Cell Inverter] ()
+  * [ ] [Text Files to Spreadsheet] ()
+  * [ ] [Spreadsheet to Text Files] ()
+14. Chapter 13 - Working with PDF and Word Documents
+  * [ ] [PDF Paranoia]()
+  * [ ] [Custom Invitations as Word Documents] ()
+  * [ ] [Brute-Force PDF Password Breaker] ()
+15. Chapter 14 - Working with CVS Files and JSON Data
+  * [ ] [Custom Invitations as Word Documents] ()
+  * [ ] [Brute-Force PDF Password Breaker] ()
+  * [ ] [Link verification] ()
+16. Chapter 15 -
