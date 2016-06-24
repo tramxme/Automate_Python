@@ -11,13 +11,13 @@ All the assignments are done in Python 3.4
 6. [**Completed**] - Chapter 5
 7. [**Completed**] - Chapter 6
 8. [**Completed**] - Chapter 7
-9. [**Almost**] - Chapter 8 - Reading and Writing File
+9. [**Completed**] - Chapter 8 - Reading and Writing File
   * [X] [Extending the multiclipboard] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/mcb.pyw)
   * [X] [Mad Libs] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/madlibs.py)
-  * [ ] Regex Search
+  * [X] [Regex Search] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/regex.py)
 10. Chapter 9
 11. Chapter 10
-12. Chapter 11 - Web Scraping
+12. [**InProgress**]Chapter 11 - Web Scraping
   * [ ] [Command Line Emailer]()
   * [ ] [Image Site Downloader] ()
   * [ ] [2048] ()
