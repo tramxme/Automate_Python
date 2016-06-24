@@ -17,7 +17,7 @@ All the assignments are done in Python 3.4
   * [X] [Regex Search] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/regex.py)
 10. Chapter 9
 11. Chapter 10
-12. [**InProgress**]Chapter 11 - Web Scraping
+12. [**InProgress**] - Chapter 11 - Web Scraping
   * [ ] [Command Line Emailer]()
   * [ ] [Image Site Downloader] ()
   * [ ] [2048] ()
@@ -34,6 +34,21 @@ All the assignments are done in Python 3.4
   * [ ] [Brute-Force PDF Password Breaker] ()
 15. Chapter 14 - Working with CVS Files and JSON Data
   * [ ] [Custom Invitations as Word Documents] ()
-  * [ ] [Brute-Force PDF Password Breaker] ()
-  * [ ] [Link verification] ()
-16. Chapter 15 -
+16. Chapter 15 - Keeping Time, Scheduling Tasks, and Launching Programs 
+  * [ ] [Prettified Stopwatch] ()
+  * [ ] [Scheduled Web Comic Downloader] ()
+17. Chapter 16 - Sending Email and Text Messages
+  * [ ] [Random Chore Assignment Emailer] ()
+  * [ ] [Umbrella Reminder] ()
+  * [ ] Auto Unsubscriber
+  * [ ] Controlling Your Computer Through Email
+18. Chapter 17 - Manipulating Images
+  * [ ] Extending and Fixing the Chapter Project Programs
+  * [ ] Identifying Photo Folders on the Hard Drive
+  * [ ] Custom Seating Cards
+19. Chapter 18 - Controlling the Keyboard and Mouse with GUI Automation
+  * [ ] Looking Busy
+  * [ ] Instant Messenger Bot
+  * [ ] Game-Playing Bot Tutorial
+
+
