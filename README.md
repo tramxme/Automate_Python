@@ -20,7 +20,7 @@ All the assignments are done in Python 3.4
 12. [**InProgress**] - Chapter 11 - Web Scraping
   * [ ] [Command Line Emailer]()
   * [ ] [Image Site Downloader] ()
-  * [ ] [2048] ()
+  * [X] [2048] (https://github.com/tramxme/Automate_Python/blob/master/Chapter11/2048.py)
   * [ ] [Link verification] ()
 13. Chapter 12 - Working with Excel Spreadsheets
   * [ ] [Multiplication Table Maker] ()
@@ -34,7 +34,7 @@ All the assignments are done in Python 3.4
   * [ ] [Brute-Force PDF Password Breaker] ()
 15. Chapter 14 - Working with CVS Files and JSON Data
   * [ ] [Custom Invitations as Word Documents] ()
-16. Chapter 15 - Keeping Time, Scheduling Tasks, and Launching Programs 
+16. Chapter 15 - Keeping Time, Scheduling Tasks, and Launching Programs
   * [ ] [Prettified Stopwatch] ()
   * [ ] [Scheduled Web Comic Downloader] ()
 17. Chapter 16 - Sending Email and Text Messages
