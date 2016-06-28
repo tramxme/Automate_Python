@@ -52,3 +52,5 @@ All the assignments are done in Python 3.4
   * [ ] Game-Playing Bot Tutorial
 
 
+### My Automation Projections
+  * [X] [FlippyBit] (https://github.com/tramxme/Automate_Python/blob/master/Chapter11/flippybit.py)
