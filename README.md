@@ -10,9 +10,11 @@ All the assignments are done in Python 3.4
 5. [**Completed**] - Chapter 4 - Lists
   * [X] [Comma Code] (https://github.com/tramxme/Automate_Python/blob/master/Chapter4/CommaCode.py)
   * [X] [Character Picture Grid] (https://github.com/tramxme/Automate_Python/blob/master/Chapter4/CharacterPictureGrid.py)
-6. [**Completed**] - Chapter 5
-7. [**Completed**] - Chapter 6
-8. [**Completed**] - Chapter 7
+6. [**Completed**] - Chapter 5 - Dictionaries and Structuring Data
+  * [X] [Display Inventories] (https://github.com/tramxme/Automate_Python/blob/master/Chapter5/Inventory.py)
+7. [**Completed**] - Chapter 6 - Manipulating Strings
+  * [X] [Table Printer] (https://github.com/tramxme/Automate_Python/blob/master/Chapter6/TablePrinter.py)
+8. [**Completed**] - Chapter 7 - Pattern Matching with Regular Expressions
 9. [**Completed**] - Chapter 8 - Reading and Writing File
   * [X] [Extending the multiclipboard] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/mcb.pyw)
   * [X] [Mad Libs] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/madlibs.py)
