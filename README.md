@@ -7,7 +7,9 @@ All the assignments are done in Python 3.4
 2. [**Completed**] - Chapter 1
 3. [**Completed**] - Chapter 2
 4. [**Completed**] - Chapter 3
-5. [**Completed**] - Chapter 4
+5. [**Completed**] - Chapter 4 - Lists
+  * [X] [Comma Code] (https://github.com/tramxme/Automate_Python/blob/master/Chapter4/CommaCode.py)
+  * [X] [Character Picture Grid] (https://github.com/tramxme/Automate_Python/blob/master/Chapter4/CharacterPictureGrid.py)
 6. [**Completed**] - Chapter 5
 7. [**Completed**] - Chapter 6
 8. [**Completed**] - Chapter 7
