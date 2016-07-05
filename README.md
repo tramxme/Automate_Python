@@ -19,7 +19,10 @@ All the assignments are done in Python 3.4
   * [X] [Extending the multiclipboard] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/mcb.pyw)
   * [X] [Mad Libs] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/madlibs.py)
   * [X] [Regex Search] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/regex.py)
-10. Chapter 9
+10. Chapter 9 - Organizing Files
+  * [X] [Selective Copy](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/selectiveCopy.py)
+  * [X] [Deleting Unneeded Files](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/DeletingUnneededFiles.py)
+  * [ ] [Filling in the Gaps](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/FillGaps.py)
 11. Chapter 10
 12. [**InProgress**] - Chapter 11 - Web Scraping
   * [ ] [Command Line Emailer]()
