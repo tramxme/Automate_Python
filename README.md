@@ -1,6 +1,6 @@
 This repo is to follow my progress with the book "Automate the Boring Stuff in Python" by Al Sweigart.
 
-All the assignments are done in Python 3.4
+All the assignments are done in Python 3.5.1
 
 ## Table of Contents:
 1. [**Completed**] - Chapter 0
@@ -19,14 +19,14 @@ All the assignments are done in Python 3.4
   * [X] [Extending the multiclipboard] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/mcb.pyw)
   * [X] [Mad Libs] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/madlibs.py)
   * [X] [Regex Search] (https://github.com/tramxme/Automate_Python/blob/master/Chapter8/regex.py)
-10. Chapter 9 - Organizing Files
+10. [**Completed**] - Chapter 9 - Organizing Files
   * [X] [Selective Copy](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/selectiveCopy.py)
   * [X] [Deleting Unneeded Files](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/DeletingUnneededFiles.py)
-  * [ ] [Filling in the Gaps](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/FillGaps.py)
-11. Chapter 10
+  * [X] [Filling in the Gaps](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/FillGaps.py)
+11. Chapter 10 - Debugging
 12. [**InProgress**] - Chapter 11 - Web Scraping
   * [ ] [Command Line Emailer]()
-  * [ ] [Image Site Downloader] ()
+  * [X] [Image Site Downloader] (https://github.com/tramxme/Automate_Python/blob/master/Chapter11/ImageSiteDownloader.py)
   * [X] [2048] (https://github.com/tramxme/Automate_Python/blob/master/Chapter11/2048.py)
   * [ ] [Link verification] ()
 13. Chapter 12 - Working with Excel Spreadsheets
