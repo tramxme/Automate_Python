@@ -24,12 +24,12 @@ All the assignments are done in Python 3.5.1
   * [X] [Deleting Unneeded Files](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/DeletingUnneededFiles.py)
   * [X] [Filling in the Gaps](https://github.com/tramxme/Automate_Python/blob/master/Chapter9/FillGaps.py)
 11. Chapter 10 - Debugging
-12. [**InProgress**] - Chapter 11 - Web Scraping
-  * [ ] [Command Line Emailer]()
+12. [**Completed**] - Chapter 11 - Web Scraping
+  * [X] [Command Line Emailer](https://github.com/tramxme/Automate_Python/blob/master/Chapter11/CommandLineEmailer.py)
   * [X] [Image Site Downloader] (https://github.com/tramxme/Automate_Python/blob/master/Chapter11/ImageSiteDownloader.py)
   * [X] [2048] (https://github.com/tramxme/Automate_Python/blob/master/Chapter11/2048.py)
-  * [ ] [Link verification] ()
-13. Chapter 12 - Working with Excel Spreadsheets
+  * [X] [Link verification] (https://github.com/tramxme/Automate_Python/blob/master/Chapter11/LinkVerification.py)
+13. [**InProgress**] - Chapter 12 - Working with Excel Spreadsheets
   * [ ] [Multiplication Table Maker] ()
   * [ ] [Blank Row Inserter] ()
   * [ ] [Spreadsheet Cell Inverter] ()

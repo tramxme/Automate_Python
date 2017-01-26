@@ -1,0 +1,5 @@
+Tools:
+   - webbrowser
+   - Requests
+   - Beautiful Soup: parse HTML
+   - Selenium

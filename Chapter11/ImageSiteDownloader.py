@@ -37,5 +37,5 @@ def downloadImage(siteURL, category):
 
 
 url = "https://imgur.com/"
-category = "cats"
+category = "progresspics"
 downloadImage(url, category)

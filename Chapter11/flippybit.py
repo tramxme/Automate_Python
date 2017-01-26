@@ -29,7 +29,7 @@ def main():
                 firstFour = valList.get(val[1])
                 secondFour = valList.get(val[0])
 
-            if firstFour != "":             
+            if firstFour != "":
                 for i in range(4):
                     if firstFour != None and firstFour[4 - i - 1] == "1":
                         string = 'jQuery($(".tapper")[' + str(i) + ']).mousedown()'
@@ -43,7 +43,7 @@ def main():
                         string = 'jQuery($(".tapper")[' + str(i) + ']).mousedown()'
                         browser.execute_script(string)
                         print(string)
-                        
+
             time.sleep(2)
- 
-main() 
+
+main()
